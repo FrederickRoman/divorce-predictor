@@ -3,7 +3,7 @@ This is a divorce predictor using a neural network. The moded is trained on the 
 
 ## Getting Started
 
-This project is self-contained. It has both the data and the code. All you need to meet the prerequisites and run the jypyter notebook cells in train.ipynb.
+This project is self-contained. It has both the data and the code. All you need to meet the prerequisites and run the jupyter notebook cells in train.ipynb.
 
 ### Prerequisites
 
